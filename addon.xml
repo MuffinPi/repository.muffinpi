@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.muffinpi" name="[B][COLOR hotpink]Muffin[/COLOR][/B][B][COLOR salmon]Pi[/COLOR][/B] Repository" version="1.0" provider-name="MuffinPi">
+    <extension point="xbmc.addon.repository" name="[B][COLOR hotpink]Muffin[/COLOR][/B][B][COLOR salmon]Pi[/COLOR][/B] Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/MuffinPi/addons/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/MuffinPi/addons/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/MuffinPi/addons/raw/master/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary></summary>
+        <description>[B]Home of [COLOR yellow]P[/COLOR][COLOR lime]i[/COLOR][COLOR deepskyblue]B[/COLOR][COLOR blueviolet]o[/COLOR][COLOR red]X[/COLOR] and [COLOR deeppink]Muffin[/COLOR][COLOR lime]Wizard[/COLOR] Custom Builds[/B]</description>
+        <disclaimer>The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
